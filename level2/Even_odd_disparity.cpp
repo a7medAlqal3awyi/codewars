@@ -48,12 +48,13 @@ int solve(vector<string> v)
     return sumEven - sumOdd;
 }
 
-int main()
-{
-    solve({"5", "15", "16", "10", "6", "4", "16", "t", "13", "n", "14", "k", "n", "0", "q", "d", "7", "9"});
 
-    return 0;
-}
+// int main()
+// {
+//     solve({"5", "15", "16", "10", "6", "4", "16", "t", "13", "n", "14", "k", "n", "0", "q", "d", "7", "9"});
+//
+//     return 0;
+// }
 
 // other solutions
 //
