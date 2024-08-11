@@ -7,6 +7,7 @@ set(CMAKE_CXX_STANDARD 14)
 add_executable(even_odd_disparity_exec
         level2/Even_odd_disparity.cpp
         "level2/Odd Ones Out! .cpp"
+        "level2/Simple string reversal .cpp"
 )
 
 
@@ -16,4 +17,7 @@ add_executable(every_exec
 )
 add_executable(ood_ones_exec
         "level2/Odd Ones Out! .cpp"
+)
+add_executable(Simple_string_reversal_exec
+        "level2/Simple string reversal .cpp"
 )
